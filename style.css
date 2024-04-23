@@ -1,0 +1,54 @@
+/*
+Theme Name: Site
+Theme URI: http://gantry.org
+Template: g5_helium
+Author: RocketTheme, LLC
+Author URI: http://rockettheme.com
+Description: Child Theme - Gantry 5 Theme from RocketTheme
+Version: 5.4.32.1578010348
+Updated: 2020-01-03 00:12:28
+
+*/
+
+.header-custom-mob-icon{
+    text-align: right;
+    font-size: 22px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: Playfair Display;
+    
+}
+#horizontalmenu-5013-particle{
+    text-transform: uppercase;
+    color: black !important;
+    font-size: 14px;
+    font-weight: bold;
+}
+.home-banner {
+    margin-left: calc( -100vw / 2 + 100% / 2 );
+    margin-right: calc( -100vw / 2 + 100% / 2 );
+    max-width: 100vw;
+}
+
+.header-row-menu{
+    font-family: DIN OT;
+    font-weight:bold;
+}
+
+.entry-header .entry-title{
+    display: none;
+}
+#g-mainbar{
+    padding: 0px;
+}
+.g-content{
+    padding: 0px;
+   
+}
+
+.g-horizontalmenu {
+    float: right;
+}
+.g-grid{
+    align-items: center;
+}
